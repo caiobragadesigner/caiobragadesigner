@@ -45,11 +45,11 @@ Graduado en Diseño Gráfico Digital con enfoque en UX/UI por el Instituto Infne
 
 ### 🌐 Idiomas
 
-| 🇧🇷 Portugués | 🇺🇸 Inglés |
-| :---: | :---: |
-| **Nativo** | **Intermedio (B1)** |
-| <img src="https://img.shields.io/badge/100%25-000000?style=flat-square" width="120"> | <img src="https://img.shields.io/badge/60%25-454545?style=flat-square" width="120"> |
-| _Fluidez Total_ | _Business & Tech — en desarrollo_ |
+| 🇧🇷 Portugués | 🇺🇸 Inglés | 🇪🇸 Español |
+| :---: | :---: | :---: |
+| **Nativo** | **Intermedio (B1)** | **Básico** |
+| <img src="https://img.shields.io/badge/100%25-000000?style=flat-square" width="120"> | <img src="https://img.shields.io/badge/60%25-454545?style=flat-square" width="120"> | <img src="https://img.shields.io/badge/30%25-8A8A8A?style=flat-square" width="120"> |
+| _Fluidez Total_ | _Business & Tech — en desarrollo_ | _Corporativo Conversacional_ |
 
 ---
 
