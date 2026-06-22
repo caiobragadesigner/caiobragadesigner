@@ -45,11 +45,11 @@ Graduated in Digital Graphic Design with a UX/UI focus from Instituto Infnet, to
 
 ### 🌐 Languages
 
-| 🇧🇷 Portuguese | 🇺🇸 English |
-| :---: | :---: |
-| **Native** | **Intermediate (B1)** |
-| <img src="https://img.shields.io/badge/100%25-000000?style=flat-square" width="120"> | <img src="https://img.shields.io/badge/60%25-454545?style=flat-square" width="120"> |
-| _Full Fluency_ | _Business & Tech — in progress_ |
+| 🇧🇷 Portuguese | 🇺🇸 English | 🇪🇸 Spanish |
+| :---: | :---: | :---: |
+| **Native** | **Intermediate (B1)** | **Basic** |
+| <img src="https://img.shields.io/badge/100%25-000000?style=flat-square" width="120"> | <img src="https://img.shields.io/badge/60%25-454545?style=flat-square" width="120"> | <img src="https://img.shields.io/badge/30%25-8A8A8A?style=flat-square" width="120"> |
+| _Full Fluency_ | _Business & Tech — in progress_ | _Conversational Corporate_ |
 
 ---
 
