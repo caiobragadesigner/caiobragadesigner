@@ -45,11 +45,11 @@ Formado em Design Gráfico Digital com foco em UX/UI pelo Instituto Infnet, dest
 
 ### 🌐 Idiomas
 
-| 🇧🇷 Português | 🇺🇸 Inglês |
-| :---: | :---: |
-| **Nativo** | **Intermediário (B1)** |
-| <img src="https://img.shields.io/badge/100%25-000000?style=flat-square" width="120"> | <img src="https://img.shields.io/badge/60%25-454545?style=flat-square" width="120"> |
-| _Fluência Total_ | _Business & Tech em evolução_ |
+| 🇧🇷 Português | 🇺🇸 Inglês | 🇪🇸 Espanhol |
+| :---: | :---: | :---: |
+| **Nativo** | **Intermediário (B1)** | **Básico** |
+| <img src="https://img.shields.io/badge/100%25-000000?style=flat-square" width="120"> | <img src="https://img.shields.io/badge/60%25-454545?style=flat-square" width="120"> | <img src="https://img.shields.io/badge/30%25-8A8A8A?style=flat-square" width="120"> |
+| _Fluência Total_ | _Business & Tech em evolução_ | _Corporativo Conversacional_ |
 
 ---
 
