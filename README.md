@@ -1,12 +1,11 @@
 # Olá, eu sou Caio Braga 👋
 
-### 🎨 Product Designer | Design Systems | Insurtech · Fintech · EdTech
+### 🧠 Product Designer | UX/UI Designer | Design Systems | AI Design | Business Design
 
 <div align="right">
-  <kbd>
-    <span>🇧🇷</span> 
-    <strong>Lendo em Português</strong>
-  </kbd>
+  <kbd><span>🇧🇷</span> <strong>Lendo em Português</strong></kbd>
+  <a href="README.en.md"><kbd><span>🇺🇸</span> Read in English</kbd></a>
+  <a href="README.es.md"><kbd><span>🇪🇸</span> Leer en Español</kbd></a>
 </div>
 
 ---
