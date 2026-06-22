@@ -107,14 +107,15 @@ Graduado en Diseño Gráfico Digital con enfoque en UX/UI por el Instituto Infne
 | Skill | Nivel | % |
 | --- | --- | --- |
 | **Product Design (UX/UI)** | <img src="https://geps.dev/progress/95?dangerColor=BA2C34&warningColor=F9F2AD&successColor=68E070" width="150" alt="95%"> | 95% |
-| **Design Systems** | <img src="https://geps.dev/progress/90?dangerColor=BA2C34&warningColor=F9F2AD&successColor=68E070" width="150" alt="90%"> | 90% |
-| **Prototipado de Alta Fidelidad** | <img src="https://geps.dev/progress/90?dangerColor=BA2C34&warningColor=F9F2AD&successColor=68E070" width="150" alt="90%"> | 90% |
+| **Prototipado de Alta Fidelidad** | <img src="https://geps.dev/progress/95?dangerColor=BA2C34&warningColor=F9F2AD&successColor=68E070" width="150" alt="95%"> | 95% |
+| **Liderazgo Técnico de Diseño** | <img src="https://geps.dev/progress/90?dangerColor=BA2C34&warningColor=F9F2AD&successColor=68E070" width="150" alt="90%"> | 90% |
+| **Design Systems** | <img src="https://geps.dev/progress/85?dangerColor=BA2C34&warningColor=F9F2AD&successColor=68E070" width="150" alt="85%"> | 85% |
 | **Visual Design & Branding** | <img src="https://geps.dev/progress/85?dangerColor=BA2C34&warningColor=F9F2AD&successColor=68E070" width="150" alt="85%"> | 85% |
-| **UX Research & Discovery** | <img src="https://geps.dev/progress/85?dangerColor=BA2C34&warningColor=F9F2AD&successColor=68E070" width="150" alt="85%"> | 85% |
-| **Liderazgo Técnico de Diseño** | <img src="https://geps.dev/progress/80?dangerColor=BA2C34&warningColor=F9F2AD&successColor=68E070" width="150" alt="80%"> | 80% |
+| **UX Research & Discovery** | <img src="https://geps.dev/progress/80?dangerColor=BA2C34&warningColor=F9F2AD&successColor=68E070" width="150" alt="80%"> | 80% |
 | **IA Aplicada al Diseño** | <img src="https://geps.dev/progress/80?dangerColor=BA2C34&warningColor=F9F2AD&successColor=68E070" width="150" alt="80%"> | 80% |
-| **AI Engineering (Claude Code, v0, Cursor)** | <img src="https://geps.dev/progress/70?dangerColor=BA2C34&warningColor=F9F2AD&successColor=68E070" width="150" alt="70%"> | 70% |
+| **AI Engineering (Claude Code, v0, Cursor)** | <img src="https://geps.dev/progress/80?dangerColor=BA2C34&warningColor=F9F2AD&successColor=68E070" width="150" alt="80%"> | 80% |
 | **Inglés (Business & Tech)** | <img src="https://geps.dev/progress/60?dangerColor=BA2C34&warningColor=F9F2AD&successColor=68E070" width="150" alt="60%"> | 60% |
+| **Español (Comunicación Funcional)** | <img src="https://geps.dev/progress/30?dangerColor=BA2C34&warningColor=F9F2AD&successColor=68E070" width="150" alt="30%"> | 30% |
 
 ---
 
