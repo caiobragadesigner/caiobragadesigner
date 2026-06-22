@@ -60,6 +60,7 @@ Formado em Design Gráfico Digital com foco em UX/UI pelo Instituto Infnet, dest
 | :--- | :--- | :--- | :--- |
 | **Instituto Infnet** | Graduação em Design Gráfico & Digital (UX/UI) | out 2022 — dez 2025 | ✅ Concluído |
 | **Design Circuit** | Formação em UX/UI, Product Design, Prototipagem e Pesquisa | jun 2025 — jul 2026 | 🔄 Em andamento |
+| **Instituto Infnet** | Pós-Graduação: MBA em UX/UI e Product Design com IA | jul 2026 — jul 2027 | 🔄 Em andamento |
 
 ---
 
